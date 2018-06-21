@@ -73,6 +73,7 @@ label + input[type="radio"]{
 .error{
 	border-color:#f00;
 }
+div.error,
 label.error{
 	border:none;
 	color:red;
