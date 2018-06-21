@@ -12,4 +12,4 @@ Créer un matrice (voir matrice.jpg) de formes à rendre cliquable
 
 # Instructions niveau 2
 * Lors du clic sur un élément carré, changer son état (plein vers vide ou vide vers plein) ainsi que tous les éléments sur la même ligne. Attention, les éléments de la même rangée doivent avoir le même état que l'élément carré
-* Lors du clic sur un élément losange, changer son état (plein vers vide ou vide vers plein) ainsi que tous les éléments sur la même ligne et sur la même rangée. Attention, les éléments de la même rangée doivent avoir le même état que l'élément carré
+* Lors du clic sur un élément losange, changer son état (plein vers vide ou vide vers plein) ainsi que tous les éléments sur la même ligne et sur la même rangée.
