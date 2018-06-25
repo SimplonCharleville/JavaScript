@@ -15,6 +15,6 @@ Delete this class once all is filled/checked.
 
 ## Step 2
 
-Using Ajax, post the form values to the existing file "post.php" and replace in the HTML page the <form> with the returned data ("post.php" returns an array with data).
+Using Ajax, post the form values to the existing file "post.php" and replace in the HTML page the "form" with the returned data ("post.php" returns an array with data).
 **Tip:** use serialize() or serializeArray() methods before to send form data with Ajax
 **Bonus:** return values in HTML instead of the PHP array (you need to modify the "post.php" file).
