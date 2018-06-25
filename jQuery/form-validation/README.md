@@ -1,6 +1,7 @@
 # jQuery validation form
 ### You must not modify the HTML and CSS files.
 ### You must comment your code IN ENGLISH! and as usual indent it
+### You must push your code on gitHub
 
 ## Step 1
 
