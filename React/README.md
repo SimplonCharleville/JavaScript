@@ -1,4 +1,4 @@
-# Initiation à React avec une base de données NoSQL (MongoDB)
+# Initiation à React en relation avec une base de données NoSQL (MongoDB)
 
 ### Prérequis :
 * [Installation de Node.js](https://nodejs.org/fr/download/)
