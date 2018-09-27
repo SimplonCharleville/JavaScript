@@ -30,7 +30,7 @@ A partir d'un "create-react-app", vous devez implémenter un back-office permett
 {
   'age': Number,
   'name': String,
-  'type': String 
+  'type': String
 }
 ```
 
