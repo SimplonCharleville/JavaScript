@@ -14,7 +14,7 @@
 * Créez une application "hello-world" avec la commande create-react-app
 * Lancez l'application
 * Parcourez les différents fichiers de l'application pour comprendre la structure React
-* Modifiez le titre (Hello World) et le logo
+* Modifiez le titre (Hello World), remplacez le logo par un picto FontAwesome
 
 ### Etape 2 : se familiariser avec l'univers React et MongoDB
 * Suivez [ce tuto](https://appdividend.com/2018/04/05/react-express-tutorial-example/) et reproduisez l'application fonctionnelle.
