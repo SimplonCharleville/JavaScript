@@ -1,13 +1,15 @@
 # Initiation à React
 
-#### Etape 1 : se familiariser avec l'univers React
+### Etape 1 : se familiariser avec l'univers React
 Suivez [ce tuto](https://appdividend.com/2018/04/05/react-express-tutorial-example/) et reproduisez l'application fonctionnelle
  
 ### Prérequis :
 * [Installation de Node.js](https://nodejs.org/fr/download/)
 * [Installation de MongoDB](https://www.mongodb.com/download-center?jmp=nav#community)
-* Facultatif : [Installation de Yarn](https://cedriclegallo.fr/posts/201702/face-face-yarn-vs-npm/)
-* Facultatif : [Installation de MongoDB Compass](https://www.mongodb.com/download-center?jmp=nav#compass)
+* Facultatif (mais conseillé) :
+ * React Developer Tools
+ * [Installation de Yarn](https://cedriclegallo.fr/posts/201702/face-face-yarn-vs-npm/)
+ * [Installation de MongoDB Compass](https://www.mongodb.com/download-center?jmp=nav#compass)
 
 ### Ressources :
 * [Site officiel React](https://reactjs.org/)
