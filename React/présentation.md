@@ -1,22 +1,22 @@
 ### Commencer avec React 
 ![React](https://risingstack-blog.s3.amazonaws.com/2016/Jan/react_best_practices-1453211146748.png)
 ___
-##### Qu'est-ce que ReactJS
+#### Qu'est-ce que ReactJS
 
 React est une librairie JavaScript open source pour construire des interfaces utilisateurs dynamiques.
 
 * Penser à `React` comme le "V" de MVC
-* Beacoup utiliser dans les SPA (Single Page Application)
+* Beaucoup utiliser dans les SPA (Single Page Application)
 * Maintenu par Facebook, Instagram & une communité de developpeurs
 
 #### Pourquoi l'utiliser ?
 
-React aide les developpeurs à construire des applications avec des données dynamiques.
+React aide les développeurs à construire des applications avec des données dynamiques.
 
 
 #### Compatibilité
 
-React gère seulement l'**UI** ou la "vue" de sorte qu'elle puisse être mélangé avec d'autres technologies, librairies et frameworks MVC.
+React gère seulement l'**UI** ou la "vue" de sorte qu'elle puisse être mélangée avec d'autres technologies, librairies et frameworks MVC.
 
 * Angular 
 * React
@@ -25,10 +25,9 @@ React gère seulement l'**UI** ou la "vue" de sorte qu'elle puisse être mélang
 
 #### Virtual DOM
 
-React maintient un DOM en son propre
+React maintient son propre DOM virtuel
 
-* Aide à identifier les parties ont changé en comparant la nouvelle version avec celle mémorisée auparavant
-* Détermine comment télécharger les navigateurs DOM plus efficacement
+* Aide à identifier les parties qui ont changées en comparant la nouvelle version avec celle mémorisée auparavant
 * Fait pour une application plus rapide
 
 
@@ -62,16 +61,7 @@ var Hello = React.createClass({
 });
 
 ReactDOM.render(
-	<Hello name="World" />,
+    <Hello name="World" />,
     document.getElementById('container')
 );
 ```
-
-
-
-
-
-
- 
-
-
