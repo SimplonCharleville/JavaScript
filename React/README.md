@@ -46,6 +46,8 @@ A partir d'un "create-react-app", vous devez implémenter un back-office permett
 }
 ```
 
+Faire un repo github avec le projet.
+
 ### Ressources :
 * [Site officiel React](https://reactjs.org/)
 * [GitHub React](https://github.com/facebook/create-react-app)
