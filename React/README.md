@@ -13,7 +13,7 @@
 * Installez npm >=6 (si nécessaire, vérifiez avant la version installée)
 * Créez une application "hello-world" avec la commande create-react-app
 * Lancez l'application
-* Parcourez les différents fichiers de l'application
+* Parcourez les différents fichiers de l'application pour comprendre la structure React
 * Modifiez le titre (Hello World) et le logo
 
 ### Etape 2 : se familiariser avec l'univers React et MongoDB
