@@ -7,9 +7,9 @@ Suivez [ce tuto](https://appdividend.com/2018/04/05/react-express-tutorial-examp
 * [Installation de Node.js](https://nodejs.org/fr/download/)
 * [Installation de MongoDB](https://www.mongodb.com/download-center?jmp=nav#community)
 * Facultatif (mais conseillé) :
- * React Developer Tools
- * [Installation de Yarn](https://cedriclegallo.fr/posts/201702/face-face-yarn-vs-npm/)
- * [Installation de MongoDB Compass](https://www.mongodb.com/download-center?jmp=nav#compass)
+  * React Developer Tools
+  * [Installation de Yarn](https://cedriclegallo.fr/posts/201702/face-face-yarn-vs-npm/)
+  * [Installation de MongoDB Compass](https://www.mongodb.com/download-center?jmp=nav#compass)
 
 ### Ressources :
 * [Site officiel React](https://reactjs.org/)
