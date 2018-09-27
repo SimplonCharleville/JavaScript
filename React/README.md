@@ -21,6 +21,18 @@
 * Générez un build de production.
 
 ### Etape 3 : on y va !
+A partir d'un "create-react-app", vous devez implémenter un back-office permettant de :
+* Créer un user
+* Lister les users
+* Modifier un user
+* Supprimer un user
+```
+{
+  'age': Number,
+  'name': String,
+  'type': String 
+}
+```
 
 ### Ressources :
 * [Site officiel React](https://reactjs.org/)
