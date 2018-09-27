@@ -1,4 +1,4 @@
-# Initiation à React
+# Initiation à React avec une base de données NoSQL (MongoDB)
 
 ### Etape 1 : se familiariser avec l'univers React
 Suivez [ce tuto](https://appdividend.com/2018/04/05/react-express-tutorial-example/) et reproduisez l'application fonctionnelle
