@@ -22,8 +22,8 @@
 
 ### Etape 3 : on y va !
 A partir d'un "create-react-app", vous devez implémenter un back-office permettant de :
-* Créer un user
 * Lister les users
+* Créer un user
 * Modifier un user
 * Supprimer un user
 ```
@@ -31,6 +31,18 @@ A partir d'un "create-react-app", vous devez implémenter un back-office permett
   'age': Number,
   'nom': String,
   'type': String
+}
+```
+
+* Lister les projets
+* Créer un projet en lien avec un user
+* Modifier un projet
+* Supprimer un projet
+```
+{
+  'titre': String,
+  'description': String
+  'createur': String
 }
 ```
 
