@@ -7,6 +7,8 @@
   * React Developer Tools
   * [Installation de Yarn](https://cedriclegallo.fr/posts/201702/face-face-yarn-vs-npm/)
   * [Installation de MongoDB Compass](https://www.mongodb.com/download-center?jmp=nav#compass)
+ 
+**/!\ On va utiliser l'invite de commande, ne vous perdez pas dans vos répertoires  !**
 
 ### Etape 1 : créer sa 1ère application React
 * Installez Node.js
